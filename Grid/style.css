@@ -1,0 +1,18 @@
+.main{
+    width: 80%;
+    background-color: pink;
+    height: 400px;
+    margin:  0 auto;
+
+    position: relative;
+}
+
+.desc{
+    background-color: green;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
